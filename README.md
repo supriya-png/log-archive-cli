@@ -6,3 +6,4 @@ A CLI tool to archive logs by compressing them on a schedule
 
 ```bash
 python3 log-archive.py /var/log
+https://roadmap.sh/projects/log-archive-tool
